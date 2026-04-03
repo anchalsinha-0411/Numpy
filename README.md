@@ -1,7 +1,5 @@
 # Numpy
 
-# Project Title
-
 ## Description
 
 This Jupyter notebook provides examples and solutions related to NumPy operations, including array creation, manipulation, arithmetic operations, and indexing. It serves as a practical guide for understanding fundamental NumPy concepts demonstrated through various code cells.
